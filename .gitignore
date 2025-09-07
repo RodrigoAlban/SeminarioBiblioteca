@@ -1,4 +1,4 @@
-obj/
-bin/
-Seminario-POO-em-C-Aprofundamento-1.pdf
-SeminarioCSharo.sln
+/obj/
+/bin/
+*Seminario-POO-em-C-Aprofundamento-1.pdf
+*SeminarioCSharo.sln
